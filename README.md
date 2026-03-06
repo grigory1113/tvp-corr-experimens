@@ -1,4 +1,7 @@
 # Replication Code for: Bayesian Algorithm for Dynamic Correlation Estimation in Economic Time Series
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18891231.svg)](https://doi.org/10.5281/zenodo.18891231)
 
 This repository contains the code to reproduce all experiments and figures from the paper:
 
