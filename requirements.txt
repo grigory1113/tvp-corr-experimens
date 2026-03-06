@@ -7,4 +7,4 @@ arch>=5.0               # for DCC-GARCH models
 tqdm>=4.64              # for progress bars
 
 # core algorithm
-git+https://github.com/grigory1113/tvp-correlation.git
+git+https://github.com/grigory1113/tvp-correlation.git@v1.0.0
